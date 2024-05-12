@@ -59,4 +59,4 @@ Before you begin, make sure to install the following:
    - Click [Here](https://www.youtube.com/watch?v=BILAqQ-ZFDA&t=652s) for a video on setting up SFML on Clion for Mac.
    - Click [Here](https://www.youtube.com/watch?v=EXY7MNqKHTc) for a video on setting up SFML on Clion for Windows.
      
-4. Build and run the code on CLion
+4. Build and run the code on CLion to play.
