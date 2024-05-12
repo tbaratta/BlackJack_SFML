@@ -12,12 +12,12 @@ Me and two other partners built a fully functional blackjack simulator.
 
 ## 🗒️ Table of Contents
 
-- 🤖 [Introduction](#introduction)
+- ♠️ [Introduction](#introduction)
 - ⚙️ [Tech Stack](#tech-stack)
 - 🛠️ [Features](#features)
 - 🏃‍♂️ [Quick Start](#quick-start)
 
-## 🤖 Introduction <a name="introduction"></a>
+## ♠️ Introduction <a name="introduction"></a>
 
 This program allows users to play head to head verus a dealer in a game of blackjack.
 
