@@ -52,7 +52,7 @@ Before you begin, make sure to install the following:
 2. Navigate to the project directory:
 
     ```bash
-    cd film-finder-react
+    cd BlackJack_SFML
     ```
 
 3. Setup SFML on CLion:
