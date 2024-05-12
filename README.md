@@ -1,5 +1,8 @@
 # BlackJack Simulator
 
+<img src="https://github.com/tbaratta/BlackJack_SFML/blob/main/images/flow_diagram.png" alt="Alt Text" width="300" height="200">
+
+
 ![Sample Image](https://github.com/tbaratta/BlackJack_SFML/blob/main/images/flow_diagram.png)
 
 
