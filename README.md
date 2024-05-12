@@ -46,7 +46,7 @@ Before you begin, make sure to install the following:
 1. Clone the repository:
 
     ```bash
-    https://github.com/tbaratta/film-finder-react.git
+    https://github.com/tbaratta/BlackJack_SFML.git
     ```
 
 2. Navigate to the project directory:
@@ -55,18 +55,8 @@ Before you begin, make sure to install the following:
     cd film-finder-react
     ```
 
-3. Install npm:
-   ```bash
-    npm install
-    ```
-4. Create a new file named .js in the root of your project and add the following:
-   ```bash
-    const API_URL = 
-    ```
-   Visit [OMDb API Website](https://www.omdbapi.com/apikey.aspx) to replace the placeholder value.
-
-5. Run the Project
-   ```bash
-    npm run dev
-    ```
-   Open http://localhost:5173 in your browser to view the project.
+3. Setup SFML on CLion:
+   - Click [Here](https://www.youtube.com/watch?v=BILAqQ-ZFDA&t=652s) for a video on setting up SFML on Clion for Mac.
+   - Click [Here] (https://www.youtube.com/watch?v=EXY7MNqKHTc) for a video on setting up SFML on Clion for Windows.
+     
+4. Build and run the code on CLion
