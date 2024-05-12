@@ -2,7 +2,7 @@
 
 This was an in class project for "Programming II" at Florida Gulf Coast University.
 
-Me and two other partners built a fully functional blackjack simulator with a UI using C++ and SFML.
+Me and two other partners built a fully functional blackjack simulator.
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/tbaratta/BlackJack_SFML/blob/main/images/flow_diagram.png" alt="Alt Text" width="400" height="320">
@@ -19,19 +19,18 @@ Me and two other partners built a fully functional blackjack simulator with a UI
 
 ## 🤖 Introduction <a name="introduction"></a>
 
-Film Finder is a web application that allows users to search for movies.
-
-This project was made with the help of [Javascriptmastery](https://www.youtube.com/@javascriptmastery) on Youtube.
+This program allows users to play head to head verus a dealer in a game of blackjack.
 
 ## ⚙️ Tech Stack <a name="tech-stack"></a>
 
-- React.js
+- C++
+- SFML
 
 ## 🛠️ Features <a name="features"></a>
 
 - **Modern User Interface:** A visually appealing and fully functional user interface.
-- **Search Functionality:** Allows users to search for any movie with a fully functional search bar.
-- **OMDb API:** Leveraged the OMDb (open movie data base) API to fetch and display real time movie data.
+- **Betting Functionality:** Allows users to bet virtual chips.
+- **BlackJack Rules:** Allows users to hit, stand or double their bet based on their dealt hand.
 
 ## 🏃‍♂️ Quick Start <a name="quick-start"></a>
 
@@ -39,9 +38,8 @@ This project was made with the help of [Javascriptmastery](https://www.youtube.c
 
 Before you begin, make sure to install the following:
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/)
+- [Clion](https://www.jetbrains.com/clion/)
+- [SFML](https://www.sfml-dev.org/download.php)
 
 ### Installation <a name="installation"></a>
 
