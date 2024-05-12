@@ -40,7 +40,7 @@ Before you begin, make sure to install the following:
 
 - [CLion](https://www.jetbrains.com/clion/)
 - [SFML](https://www.sfml-dev.org/download.php)
-
+  
 ### Installation <a name="installation"></a>
 
 1. Clone the repository:
