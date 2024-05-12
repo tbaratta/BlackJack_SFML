@@ -13,26 +13,26 @@ Me and two other partners built a fully functional blackjack simulator.
 ## 🗒️ Table of Contents
 
 - ♠️ [Introduction](#introduction)
-- ⚙️ [Tech Stack](#tech-stack)
-- 🛠️ [Features](#features)
-- 🏃‍♂️ [Quick Start](#quick-start)
+- ♥️ [Tech Stack](#tech-stack)
+- ♣️ [Features](#features)
+- ♦️ [Quick Start](#quick-start)
 
 ## ♠️ Introduction <a name="introduction"></a>
 
 This program allows users to play head to head verus a dealer in a game of blackjack.
 
-## ⚙️ Tech Stack <a name="tech-stack"></a>
+## ♥️ Tech Stack <a name="tech-stack"></a>
 
 - C++
 - SFML
 
-## 🛠️ Features <a name="features"></a>
+## ♣️ Features <a name="features"></a>
 
 - **Modern User Interface:** A visually appealing and fully functional user interface.
 - **Betting Functionality:** Allows users to bet virtual chips.
 - **BlackJack Rules:** Allows users to hit, stand or double their bet based on their dealt hand.
 
-## 🏃‍♂️ Quick Start <a name="quick-start"></a>
+## ♦️ Quick Start <a name="quick-start"></a>
 
 ### Prerequisites <a name="prerequisites"></a>
 
