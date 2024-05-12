@@ -1,5 +1,9 @@
 # BlackJack Simulator
 
+![Sample Image](https://github.com/tbaratta/BlackJack_SFML/images/flow_diagram.png)
+
+
+
 ## 🗒️ Table of Contents
 
 - 🤖 [Introduction](#introduction)
