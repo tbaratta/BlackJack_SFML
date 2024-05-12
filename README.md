@@ -38,7 +38,7 @@ This program allows users to play head to head verus a dealer in a game of black
 
 Before you begin, make sure to install the following:
 
-- [Clion](https://www.jetbrains.com/clion/)
+- [CLion](https://www.jetbrains.com/clion/)
 - [SFML](https://www.sfml-dev.org/download.php)
 
 ### Installation <a name="installation"></a>
