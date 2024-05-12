@@ -2,7 +2,7 @@
 
 This was an in class project for "Programming II" at Florida Gulf Coast University.
 
-Me and two other partners built a fully functional blackjack simulator with a UI using SFML.
+Me and two other partners built a fully functional blackjack simulator with a UI using C++ and SFML.
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/tbaratta/BlackJack_SFML/blob/main/images/flow_diagram.png" alt="Alt Text" width="400" height="320">
