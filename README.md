@@ -1,8 +1,9 @@
 # BlackJack Simulator
 
-<img src="https://github.com/tbaratta/BlackJack_SFML/blob/main/images/flow_diagram.png" alt="Alt Text" width="500" height="400">
-<img src="https://github.com/tbaratta/BlackJack_SFML/blob/main/images/UI.png" alt="Alt Text" width="500" height="400">
-
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/tbaratta/BlackJack_SFML/blob/main/images/flow_diagram.png" alt="Alt Text" width="400" height="320">
+  <img src="https://github.com/tbaratta/BlackJack_SFML/blob/main/images/UI.png" alt="Alt Text" width="400" height="320">
+</div>
 
 
 ## 🗒️ Table of Contents
